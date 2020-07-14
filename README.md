@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**booscaaa/booscaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Vinícius Boscardin from Brasil (:brazil:), I'm an Software engineering completely passionate about app/web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my skills:
+- Flutter
+- Golang
+- Node.js
+- Vue.js
+- PostgreSQL
+- Git
+- Docker
+- Gcloud
+- Digital Ocean
+- Aws
+
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/booscaaa/)](https://www.linkedin.com/in/booscaaa/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/booscaaa)](https://twitter.com/booscaaa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/booscaaa)](https://instagram.com/booscaaa)
+
