@@ -1,5 +1,5 @@
 
-
+## Hi there! :v:
 My name is Vinícius Boscardin from Brasil (:brazil:), I'm an Software engineering completely passionate about app/web development.
 
 Some of my skills:
