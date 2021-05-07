@@ -8,10 +8,10 @@ My name is Vinícius Boscardin from Brasil (:brazil:), I'm an Software engineeri
     <table>
       <tr>
           <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=booscaaa&count_private=true&hide_border=true" />
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=booscaaa&count_private=true&hide_border=true&theme=merko" />
           </td>
           <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=booscaaa&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=booscaaa&hide=html&layout=compact&count_private=true&hide_border=true&theme=merko" />               </td>
       </tr>  
     </table>
 </center>
