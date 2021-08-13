@@ -12,7 +12,10 @@ My name is Vinícius Boscardin from Brasil (:brazil:), I'm an Software engineeri
           </td>
           <td>
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=booscaaa&hide=html&layout=compact&count_private=true&hide_border=true&theme=merko" />               </td>
-      </tr>  
+      </tr>
+      <tr>
+        <img src="https://github.com/booscaaa/booscaaa/blob/output/github-contribution-grid-snake.svg">
+      </tr>
     </table>
 </center>
 
