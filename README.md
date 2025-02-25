@@ -38,8 +38,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/booscaaa/booscaaa/blob/output/github-contribution-grid-snake.svg">
-
 ###
